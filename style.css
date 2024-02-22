@@ -30,6 +30,9 @@ main{
 .input_calc{
     height: 50px;
     width: 250px;
+    color: rgb(253, 251, 251);
+    font-size: 25px;
+    font-family: "Roboto";
 }
 
 .btn{
